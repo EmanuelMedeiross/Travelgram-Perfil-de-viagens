@@ -16,3 +16,7 @@ nav ul {
 nav ul li:last-child img {
     object-fit: cover;
 }
+
+nav ul li {
+    font: var(--text);
+}
